@@ -1,2 +1,2 @@
 testing fork upstream
-testing pull data origin dari fork repo
+testing pull data origin dari fork testing commit fork
